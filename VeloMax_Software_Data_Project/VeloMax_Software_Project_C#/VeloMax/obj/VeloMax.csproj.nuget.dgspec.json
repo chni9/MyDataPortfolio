@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yassi\\OneDrive - De Vinci\\ESILV\\A3\\Semestre 06\\BDD & intéropérabilité\\Projet\\VeloMax\\VeloMax\\VeloMax.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yassi\\OneDrive - De Vinci\\ESILV\\A3\\Semestre 06\\BDD & intéropérabilité\\Projet\\VeloMax\\VeloMax\\VeloMax.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yassi\\OneDrive - De Vinci\\ESILV\\A3\\Semestre 06\\BDD & intéropérabilité\\Projet\\VeloMax\\VeloMax\\VeloMax.csproj",
+        "projectName": "VeloMax",
+        "projectPath": "C:\\Users\\yassi\\OneDrive - De Vinci\\ESILV\\A3\\Semestre 06\\BDD & intéropérabilité\\Projet\\VeloMax\\VeloMax\\VeloMax.csproj",
+        "packagesPath": "C:\\Users\\yassi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yassi\\OneDrive - De Vinci\\ESILV\\A3\\Semestre 06\\BDD & intéropérabilité\\Projet\\VeloMax\\VeloMax\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yassi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
