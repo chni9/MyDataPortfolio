@@ -2,3 +2,4 @@
 
 This is my second AI related project.
 
+- Goal : 
