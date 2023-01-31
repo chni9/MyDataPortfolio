@@ -6,8 +6,6 @@ Problematic :
 - Can we predict a future drug consumer using ML ?
 - How to prevent the rise of new consumers ?
 
-TO DO :
-
 I - Data preprocessing :
 - import dataframe
 - import by webscraping into dataframes the 'values' and 'meanings' of each columns from https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
