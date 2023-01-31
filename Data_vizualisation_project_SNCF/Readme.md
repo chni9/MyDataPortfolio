@@ -9,3 +9,4 @@ Kaggle : https://www.kaggle.com/datasets/gatandubuc/public-transport-traffic-dat
 - Library : Pandas
 - Environment : Jupiter Notebook
 - Dataset : SNCF regularities ( https://data.sncf.com/explore/dataset/regularite-mensuelle-tgv-aqst/information/?sort=periode )
+- Date : 12/10/2022
