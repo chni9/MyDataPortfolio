@@ -14,3 +14,4 @@ I had to predict the parameters p1 to p6 using an AI Genetic Algorithm. (more de
 - Language: Python
 - Library : numpy
 - Environment: Spyder
+- Date : 25/03/2022
