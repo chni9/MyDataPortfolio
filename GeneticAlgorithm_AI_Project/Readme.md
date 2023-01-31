@@ -8,7 +8,7 @@ Predict the trajectory of a satellite that follows this orbit :
       y(t) = p4 × sin(p5 × t + p6)
 
 - How :
-I had to predict the parameters p1 to p6 using a AI Genetic Algorithm.
+I had to predict the parameters p1 to p6 using an AI Genetic Algorithm.
 
 
 - Language: Python
