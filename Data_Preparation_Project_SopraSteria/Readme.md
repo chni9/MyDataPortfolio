@@ -1,5 +1,7 @@
 # Data preparation project (english below)
 
+Notre équipe a été chargée d'automatiser le processus de préparation des données pour notre client Sopra Steria en utilisant le langage de programmation Java et l'outil Spark. Cependant, en raison des limitations de l'espace de travail et du manque de familiarité des membres de l'équipe avec Java, nous avons été obligés de passer à un environnement Python. Malgré cela, nous avons réussi à atteindre nos objectifs de projet, qui comprenaient l'ingestion, la fusion, le nettoyage et la livraison des données.
+
 Notre équipe a travaillé à la création d'un algorithme Python capable de nettoyer et de fusionner deux ensembles de données avec la même clé primaire. L'utilisation de Spark a été essentielle pour gérer de grandes quantités de données de manière efficace, en faisant un outil vital pour notre projet. Notre objectif principal était de créer un processus qui automatiserait la préparation des données, réduisant ainsi la charge de travail manuelle et garantissant l'exactitude des données.
 
 Notre expérience nous a appris des leçons précieuses sur la gestion de projet et la communication. Nous avons adopté une méthodologie Agile et établi des canaux de communication réguliers pour assurer une gestion de projet efficace. Nos membres d'équipe ont été encouragés à fournir des mises à jour régulières sur leur progression et à identifier les problèmes et les défis auxquels ils étaient confrontés. Cela nous a permis de travailler ensemble pour résoudre les problèmes et assurer que le projet reste sur la bonne voie.
@@ -29,4 +31,4 @@ Constraints were an important consideration throughout the project. We had to ba
 In conclusion, the project was successful in achieving its objectives, and we learned valuable lessons about effective project management and communication. We were able to deliver a streamlined data preparation process to our client that reduced manual workload and ensured data accuracy. Our experience highlights the importance of clear communication and effective project management when working on complex projects.
 
 
-Notre équipe a été chargée d'automatiser le processus de préparation des données pour notre client en utilisant le langage de programmation Java et l'outil Spark. Cependant, en raison des limitations de l'espace de travail et du manque de familiarité des membres de l'équipe avec Java, nous avons été obligés de passer à un environnement Python. Malgré cela, nous avons réussi à atteindre nos objectifs de projet, qui comprenaient l'ingestion, la fusion, le nettoyage et la livraison des données.
+
