@@ -14,7 +14,7 @@ Les contraintes ont été une considération importante tout au long du projet. 
 
 En conclusion, le projet a été un succès dans la réalisation de ses objectifs, et nous avons appris des leçons précieuses sur la gestion de projet et la communication efficaces. Nous avons été en mesure de fournir un processus de préparation de données rationalisé à notre client qui a réduit la charge de travail manuelle et assuré l'exactitude des données. Notre expérience souligne l'importance d'une communication claire et d'une gestion de projet efficace lors de la réalisation de projets complexes.
 
-Présentation : https://www.canva.com/design/DAFdiJMB-Mo/XKDh3PwlA0zdBQXdbuOoew/view?utm_content=DAFdiJMB-Mo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
+Presentation : https://www.canva.com/design/DAFdiJMB-Mo/XKDh3PwlA0zdBQXdbuOoew/view?utm_content=DAFdiJMB-Mo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
 
 # English :
 
