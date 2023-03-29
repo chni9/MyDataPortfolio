@@ -14,6 +14,8 @@ Les contraintes ont été une considération importante tout au long du projet. 
 
 En conclusion, le projet a été un succès dans la réalisation de ses objectifs, et nous avons appris des leçons précieuses sur la gestion de projet et la communication efficaces. Nous avons été en mesure de fournir un processus de préparation de données rationalisé à notre client qui a réduit la charge de travail manuelle et assuré l'exactitude des données. Notre expérience souligne l'importance d'une communication claire et d'une gestion de projet efficace lors de la réalisation de projets complexes.
 
+Présentation : https://www.canva.com/design/DAFdiJMB-Mo/XKDh3PwlA0zdBQXdbuOoew/view?utm_content=DAFdiJMB-Mo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
+
 # English :
 
 Our team was tasked with the goal of automating the process of data preparation for our client Sopra Steria using the Java programming language and Spark tool. However, due to workspace limitations and team member familiarity, we were forced to switch to a Python environment. Despite this, we were able to successfully achieve our project objectives, which included data ingestion, fusion, cleaning, and delivery.
@@ -30,5 +32,6 @@ Constraints were an important consideration throughout the project. We had to ba
 
 In conclusion, the project was successful in achieving its objectives, and we learned valuable lessons about effective project management and communication. We were able to deliver a streamlined data preparation process to our client that reduced manual workload and ensured data accuracy. Our experience highlights the importance of clear communication and effective project management when working on complex projects.
 
+Présentation : https://www.canva.com/design/DAFdiJMB-Mo/XKDh3PwlA0zdBQXdbuOoew/view?utm_content=DAFdiJMB-Mo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
 
 
