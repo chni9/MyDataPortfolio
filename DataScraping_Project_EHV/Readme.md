@@ -11,7 +11,7 @@ Throughout the project, I had the opportunity to work independently, taking char
 As a result of the project's success, I successfully added 300 new startups to our database. 
 This significant expansion has proven invaluable to my colleagues in Sales, streamlining their prospecting efforts and enhancing the overall efficiency of the company.
 
-- Date: 30/05/2001
+- Date: 30/05/2023
 - Language: Python
 - Libraries: Pandas, Selenium, BeautifulSoup
 - API: ChatGPT 3.5
